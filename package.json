@@ -1,0 +1,17 @@
+{
+  "name": "brackets-mustache-language",
+  "title": "Mustache Language",
+  "description": "Mustache file extension support.",
+  "homepage": "https://github.com/dbtek/brackets-mustache-language",
+  "version": "1.0.0",
+  "author": "İsmail Demirbilek (https://twitter.com/dbtek)",
+  "license": "MIT",
+  "keywords": [
+    "mustache",
+    "html",
+    "language"
+  ],
+  "engines": {
+    "brackets": ">=0.24.0"
+  }
+}
